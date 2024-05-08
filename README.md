@@ -10,7 +10,7 @@ Com essas tecnologias, simplificamos o processo de criação de conteúdo técni
 - [Canva](https://www.canva.com/) - para designer de artigo
 
 
-📕Clique no link ao lado para ler: 
+📕Clique no link ao lado para ler: https://drive.google.com/file/d/1QITmhPrzvNxrEpHBrrSx3brTzrZVjnER/view?usp=sharing
 
 🧠 Prompts
 - Poderia melhorar o texto abaixo para artigo,
